@@ -30,3 +30,10 @@ The dataset includes player names, clubs, leagues, transfer fees and more.
 ### Number of Transfers >=1M€ (by Clubs)
 ![Clubs by Number of Transfers](visuals/top10_clubs_by_number.png)
 
+---
+
+## Dataset Source
+The dataset used in this project is from Kaggle:  
+[Football Summer Market 2022 (by David Molina)](https://www.kaggle.com/datasets/davidmolina/football-summer-market-2022)
+
+License: **CC0: Public Domain**
